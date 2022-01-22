@@ -1,0 +1,44 @@
+Ebun Blessing Adebesin
+Java II
+Dr Primo Abena
+11/18/2021
+
+Notepad Help doc
+
+This application is a simple GUI JAVA Application with features that works similar to the Microsoft notepad. Here are the following functions/ features that the application has. This application will enable a user of the application to view and edit a text file.
+
+When the application is opened, the first thing the user sees is a blank text area with menus at the top, scrollbars horizontally and vertically and the line and column number at the bottom right of the page. Here is an image below.
+ 
+
+The next feature is the menu bar. 
+Firstly, we have the file section. 
+The file section comprises of the new, open, save and exit menu item
+•	The “new” menu item in the file section essentially creates a new text field and clears the previous document. It can also be activated by CTRL N.
+•	The “open” menu item in the file section is able to open an existing .txt document in the available pane. It can also be activated by CTRL O.
+ 
+•	The “save” menu item in the file section saves all open documents. It can also be activated by CTRL S.
+ 
+•	The “exit” menu item in the file section closes and saves the open document then closes the application. It can also be activated by CTRL X.
+
+The second feature on the menu bar is the edit section.
+The Edit section consist of the Go To, replace, font and line bar menu item
+•	The “Go To” menu item in the edit section takes the user to a particular line number in the open 
+document.
+•	The “Replace” menu item in the edit section allows the user to replace a supplied string with 
+another supplied string in the open document.
+
+•	The “Font” menu item in the edit section allows the user to edit the font style, font type and font size.
+ 
+
+The third feature on the menu bar is the Format section.
+The Format section consist of green and red menu item.
+•	The “Green” menu item in the format section displays all the lines in the open file in the color green.
+ 
+•	The “Red” menu item in the format section displays all the lines in the open file in the color red.
+ 
+
+The last feature on the menu bar is the Help section
+The help section provides the user with a text document explaining all the options coded into the application which is the document you are reading now.
+
+
+
